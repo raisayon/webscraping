@@ -1,0 +1,12 @@
+cd project_folder
+node --version
+npm init //creating package.json file metadata
+
+npm i express //library web framework with nodejs
+npm i joi //validates information
+
+npm i -g nodemon //no need to restart server
+
+node script.js
+
+
